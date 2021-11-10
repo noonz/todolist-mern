@@ -1,2 +1,2 @@
 # MERN TodoList
-## intro to mern tutorial
+## intro to mern

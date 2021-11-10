@@ -1,2 +1,2 @@
-# MERN TodoList list
-## refactored from Traversy Media for introduction to MERN stack
+# MERN TodoList
+## intro to mern tutorial

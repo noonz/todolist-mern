@@ -1,7 +1,7 @@
 # TodoList MERN
 
 ## Overview
-Basic introduction todolist web app using MERN stack on ubuntu
+Basic introduction todolist web app using MERN stack with authentication on ubuntu
 
 ## Screenshots
 <p float="left">

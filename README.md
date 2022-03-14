@@ -12,4 +12,4 @@ Basic introduction todolist web app using MERN stack with authentication on ubun
 </p>
 
 ## Credits: Dave Nunez
-### Travery Media tutorial with some slight refactoring
+### Traversy Media tutorial with some slight refactoring
